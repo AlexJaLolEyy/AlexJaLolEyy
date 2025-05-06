@@ -1,5 +1,13 @@
 <svg width="1000" height="180" viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="180" rx="30" fill="#1a1a1a"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" fill="#F5F5F5" font-weight="bold">Alex, 21 | Frontend Developer</text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="24" font-family="Fira Code, monospace" fill="#B39DDB">Loves clean code & Japanese culture <tspan font-size="28">🌸</tspan></text>
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1000" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a1a1a"/>
+      <stop offset="1" stop-color="#232946"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="180" rx="30" fill="url(#bg-gradient)"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" fill="#F5F5F5" font-weight="bold">Hi, I'm Alex <tspan font-size="44">👋</tspan></text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" fill="#B39DDB">
+    Building modern web experiences with passion <tspan font-size="32">🌸</tspan>
+  </text>
 </svg>
