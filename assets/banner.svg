@@ -1,0 +1,5 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="180" rx="30" fill="#1a1a1a"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" fill="#F5F5F5" font-weight="bold">Alex, 21 | Frontend Developer</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="24" font-family="Fira Code, monospace" fill="#B39DDB">Loves clean code & Japanese culture <tspan font-size="28">🌸</tspan></text>
+</svg>
