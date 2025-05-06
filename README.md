@@ -83,10 +83,10 @@
 <table width="90%" style="border: none;">
   <tr>
     <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=alexjaloleyy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexJaLolEyy&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5&icon_color=B39DDB" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexjaloleyy&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJaLolEyy&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5" alt="Most Used Languages" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -94,11 +94,15 @@
       <img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
     </td>
     <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjaloleyy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexJaLolEyy&theme=dracula&hide_border=true&background=1a1a1a&stroke=B39DDB&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexJaLolEyy&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8&bg_color=1a1a1a" alt="GitHub Trophies" />
+</p>
 
 <br/>
 
