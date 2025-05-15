@@ -50,14 +50,14 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexJaLolEyy&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5&icon_color=B39DDB" alt="GitHub Stats" width="420" height="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexJaLolEyy&theme=dracula&hide_border=true&background=1a1a1a&stroke=B39DDB&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" alt="GitHub Streak" width="420" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexJaLolEyy&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5&icon_color=B39DDB" alt="GitHub Stats" width="400" height="180"/>
+&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexJaLolEyy&theme=dracula&hide_border=true&background=1a1a1a&stroke=B39DDB&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" alt="GitHub Streak" width="405" height="180"/>
 </div>
 &nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="420" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJaLolEyy&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5" alt="Most Used Languages" width="420" height="180"/>
+  <img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJaLolEyy&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5" alt="Most Used Languages" width="405" height="180"/>
 </div>
 &nbsp;&nbsp;&nbsp;
 <p align="center">
@@ -86,7 +86,7 @@
 </div>
   &nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img src="assets/discord.svg" width="25%">
+  <img src="assets/Discord.svg" width="25%">
 </div>
  &nbsp;&nbsp;&nbsp;
 
