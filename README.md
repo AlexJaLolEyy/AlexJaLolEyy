@@ -48,6 +48,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AlexJaLolEyy&theme=dracula&no-frame=true&margin-w=4&margin-h=4&column=8" alt="GitHub Trophies" />
 </p>
 
+![GitHub Snake](https://raw.githubusercontent.com/AlexJaLolEyy/AlexJaLolEyy/output/github-contribution-grid-snake.svg)
+
+
 <br/>
 
 ## 🚀 Technologies & Tools
