@@ -40,16 +40,13 @@
 </div>
 &nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="400" height="180"/>
+  <img src="https://raw.githubusercontent.com/AlexJaLolEyy/AlexJaLolEyy/output/github-snake-dark.svg" alt="Contribution Snake" width="400" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJaLolEyy&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=B39DDB&text_color=F5F5F5" alt="Most Used Languages" width="405" height="180"/>
 </div>
 &nbsp;&nbsp;&nbsp;
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlexJaLolEyy&theme=dracula&no-frame=true&margin-w=4&margin-h=4&column=8" alt="GitHub Trophies" />
 </p>
-
-![GitHub Snake](https://raw.githubusercontent.com/AlexJaLolEyy/AlexJaLolEyy/output/github-contribution-grid-snake.svg)
-
 
 <br/>
 
