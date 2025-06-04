@@ -21,12 +21,13 @@
 
 ## 👤 About Me
 
-<div align="center">
-  <img src="assets/aboutme/infos-hobbies.svg">
+<div align="center" >
+  <img src="assets/aboutme/infos-hobbies.svg" width="90%">
+
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/aboutme/character-focus.svg">
+  <img src="assets/aboutme/character-focus.svg" width="90%">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/aboutme/quote.svg">
+  <img src="assets/aboutme/quote.svg" width="90%">
 </div>
 
 <br/>
