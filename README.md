@@ -5,13 +5,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexJaLolEyy&style=for-the-badge&color=60598F&label=PROFILE%20VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge" alt="Age" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-success?style=for-the-badge" alt="Status" />
-  <div align="center">
-    <img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English" />
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="26" />
-    <img src="https://img.shields.io/badge/German-black?style=for-the-badge" alt="German" />
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1ea.svg" width="26" />
-  </div>
+  <img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="30" />
+  <img src="https://img.shields.io/badge/German-black?style=for-the-badge" alt="German" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1ea.svg" width="30" />
 </div>
 
 
@@ -21,28 +18,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=B39DDB&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;UI%2FUX+Enthusiast+%7C+Frontend+Developer;Always+learning%2C+always+building!" alt="Typing SVG" />
 </div>
 
-<br/>
 
 ## 👤 About Me
 
 <div align="center">
-  <div>
-    <img src="assets/aboutme/BasicInfo.png" alt="Basic Info" width="45%">
-    &nbsp;&nbsp;&nbsp;
-    <img src="assets/aboutme/HobbiesInterests.png" alt="Hobbies & Interests" width="45%">
-  </div>
-  <div>
-    &nbsp;&nbsp;&nbsp;
-  </div>
-  <div>
-    <img src="assets/aboutme/Characteristics.png" alt="Characteristics" width="45%" >
-    &nbsp;&nbsp;&nbsp;
-    <img src="assets/aboutme/CurrentlyLearning.png" alt="Currently Learning" width="45%">
-  </div>
+  <img src="assets/aboutme/infos-hobbies.svg">
   &nbsp;&nbsp;&nbsp;
-  <div>
-    <img src="assets/aboutme/Quote.svg" alt="Quote" width="92%">
-  </div>
+  <img src="assets/aboutme/character-focus.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/aboutme/quote.svg">
 </div>
 
 <br/>
@@ -69,7 +53,13 @@
 ## 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="assets/technologies.svg">
+  <img src="assets/technologies/frontend-backend.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/technologies/ui-databases-testing.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/technologies/docs-deployment-build.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/technologies/state-design-ide.svg">
 </div>
 
 <br/>
@@ -81,7 +71,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/alexander-benski">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
 </div>
   &nbsp;&nbsp;&nbsp;
@@ -90,4 +80,4 @@
 </div>
  &nbsp;&nbsp;&nbsp;
 
-> _(Note: This README was fully written and styled by me, using advanced HTML and CSS, since i didnt expect Github to only support basic HTML / Markdown in 2025. Some Badges and Images were manually rebuild via Figma, which leads to reduced Badge-Quality since i was limited to use PNGs instead of SVGs.)_
+> _(Note: This README was fully written and styled by me - originally with advanced HTML / CSS. If you have any Questions, feel  free to contact me.)_
