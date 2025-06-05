@@ -21,16 +21,19 @@
 
 ## 👤 About Me
 
+<!-- unfortunately we do need all of those divs here, for correct stlying -->
 <div align="center" >
   <img src="assets/aboutme/infos-hobbies.svg" width="90%">
-
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/aboutme/character-focus.svg" width="90%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/aboutme/quote.svg" width="90%">
 </div>
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src="assets/aboutme/character-focus.svg" width="90%">
+</div>
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+ <img src="assets/aboutme/quote.svg" width="90%">
+<div>
 
-<br/>
 
 ## 📊 GitHub Stats & Activity
 
